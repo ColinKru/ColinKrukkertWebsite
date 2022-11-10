@@ -3,3 +3,6 @@ Colin Krukkert
 HAINFVT1C
 https://colinkru.github.io
 https://github.com/ColinKru/ColinKrukkertWebsite
+
+eerste commit: 
+https://github.com/ColinKru/colinkru.github.io/commit/c44d4d87f5906d2cda7c7dfbb18012f425a2efd2
